@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Nunito';
+  src: url('./src/assets/fonts/Nunito.ttf') format('truetype') font-weight-normal,
+       url('./src/assets/fonts/Nunito_bold.ttf') format('truetype') font-weight-bold,
+       url('./src/assets/fonts/Nunito_italic.ttf') format('truetype') font-italic,
+       url('./src/assets/fonts/Nunito_bold_italic.ttf') format('truetype') font-italic font-weight-bold;
+}

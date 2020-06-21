@@ -1,0 +1,50 @@
+{
+  "buttons": {
+    "math": "Mathematics",
+    "insert": "Insérer",
+    "bold": "Gras",
+    "italic": "Italique",
+    "underline": "Souligné",
+    "alignment": "Alignement",
+    "alignLeft": "Alignez à Gauche",
+    "alignCenter": "Aligner le Centre",
+    "alignRight": "Aligner à Droite",
+    "alignJustify": "Justifier le centre"
+  },
+  "menuSound": {
+    "title": "[{1}] : 'son '{2}'"
+  },
+  "sounds": {
+    "a": "A",
+    "b": "B",
+    "d": "D",
+    "ə": "E",
+    "e": "É",
+    "ε": "È",
+    "f": "F",
+    "g": "G",
+    "i": "I",
+    "ks": "X",
+    "j": "Y",
+    "k": "K",
+    "l": "L",
+    "m": "M",
+    "n": "N",
+    "o": "O",
+    "p": "P",
+    "r": "R",
+    "y": "U",
+    "v": "V",
+    "z": "Z",
+    "ʒ": "J",
+    "s": "S",
+    "t": "T",
+    "ʃ": "CH",
+    "ɲ": "GN",
+    "ã": "AN",
+    "ɛ̃": "UN",
+    "ɔ̃": "ON",
+    "u": "OU",
+    "w": "OI"
+  }
+}
