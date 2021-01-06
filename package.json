@@ -16,7 +16,7 @@
   "dependencies": {
     "@react-native-community/async-storage": "^1.10.3",
     "@sharcoux/slider": "^3.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jszip": "^3.4.0",
     "localforage": "^1.7.3",
     "node-html-better-parser": "^1.1.22",
